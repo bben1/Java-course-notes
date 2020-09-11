@@ -1,3 +1,4 @@
+package tutorial13_18_Classes;
 class Human {
 	
 	/*instance variables

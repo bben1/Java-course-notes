@@ -1,3 +1,4 @@
+package tutorial13_18_Classes;
 class Person {
 	/*//This is a private class that we can then 
 	 * use in the "main" method of the public class
