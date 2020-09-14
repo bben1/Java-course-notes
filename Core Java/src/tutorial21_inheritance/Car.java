@@ -1,4 +1,4 @@
-package tutorial21;
+package tutorial21_inheritance;
 
 public class Car extends Machine {//We write 'extends' to imply that Car inherits from Machine
 	

@@ -1,4 +1,4 @@
-package tutorial21;
+package tutorial21_inheritance;
 
 public class Machine {
 	
