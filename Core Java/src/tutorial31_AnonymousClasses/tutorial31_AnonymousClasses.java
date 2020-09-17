@@ -1,4 +1,4 @@
-package tutorial31_OtherClassTypes;
+package tutorial31_AnonymousClasses;
 
 import tutorial25_Polymorphism.Plant;
 
@@ -90,11 +90,5 @@ public class tutorial31_AnonymousClasses {
 		
 	}
 	
-	/* Anonymous classes work similarly to interfaces in that
-	 * they require you to override existing methods.
-	 * But they are not the same thing.
-	 * An interface defines what a class can do (a Person() and a Machine() can .showInfo())
-	 * An anonymous class defines what a class is (a Person() can .eat() a Machine() can .refill() etc..)
-	 */
 
 }
