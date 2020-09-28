@@ -74,9 +74,4 @@ public class PassingObjectsToCollections {
 		
 	}
 
-	private static Object Person(int i, String string) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
 }
